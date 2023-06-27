@@ -5,8 +5,8 @@ public class task1 {
 
         public static void main(String[] args) {
 
-                int a = 124;
-                int b = 12;
+                float a = 1248;
+                float b = 124;
 
                 System.out.println(a+b);
                 System.out.println(a-b);

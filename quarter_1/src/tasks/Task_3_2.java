@@ -10,8 +10,5 @@ public class Task_3_2 {
             array[i] = (int) (Math.random() * (i));
 
         System.out.print(Arrays.toString(array));
-        System.out.println("3. Before:\t" + Arrays.toString(array));
-        doubling(array);
-        System.out.println("3. After:\t" + Arrays.toString(array));
     }
 }

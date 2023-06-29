@@ -1,5 +1,6 @@
 package tasks;
-//
+// Написать программу осуществляющую решение линейного уравнения ax + b = 0. a и b задаете в программе,
+// х выводите на экран (необходимо рассчитать х для заданных значений a и b).
 import java.util.Scanner;
 public class Equation {
     public static void main(String[] args) {
